@@ -1,0 +1,1 @@
+Clipping implemented via spSkeletonClipping_* API (Spine 3.6.x).
